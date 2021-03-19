@@ -1,8 +1,6 @@
 #include <iostream>
-#include <git2.h>
 
-using namespace std;
-
-int main() {
-    libgit2
+int main()
+{
+    return EXIT_SUCCESS;
 }
