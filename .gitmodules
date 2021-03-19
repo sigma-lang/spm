@@ -1,0 +1,3 @@
+[submodule "subprojects/cppgit2"]
+	path = subprojects/cppgit2
+	url = https://github.com/lianstuder/cppgit2
